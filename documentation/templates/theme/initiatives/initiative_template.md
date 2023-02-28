@@ -33,8 +33,8 @@ Risks:
 Lack of participation or engagement from team members
 Failure to implement action items effectively
 Unforeseen external factors impacting the retrospective practice (e.g. unexpected project delays)
-Mitigation strategies:
 
+Mitigation strategies:
 Regular communication and reminders about the importance of the retrospective practice
 Clearly defined action items with assigned owners and deadlines
 Regular evaluation and adaptation of the retrospective practice to ensure effectiveness

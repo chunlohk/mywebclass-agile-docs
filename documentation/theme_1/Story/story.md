@@ -37,3 +37,4 @@ Acceptance Criteria:
 4. Google Analytics reports must be reviewed regularly to identify areas for improvement in the website's user experience.
 
 ## Tasks for Devops
+[Devops Tasks]((/documentation/theme_1/Tasks/devops_tasks.md))

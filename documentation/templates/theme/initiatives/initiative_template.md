@@ -1,81 +1,27 @@
-Title of the Initiative: 
 
-Agile Retrospective Practice
+"Title of the Initiative"
 
-Description: 
+Description: [A brief description of the initiative]
 
-Establish a regular retrospective practice to continuously improve team processes and practices.
+Goals: [List the goals or objectives of the initiative]
 
-Goals:
+Scope: [Define the scope of the initiative]
 
-Foster a culture of continuous learning and adaptation
+Outcomes: [Describe the expected outcomes of the initiative]
 
-Identify and address areas for improvement in team processes and practices
+Deliverables: [List the expected deliverables of the initiative]
 
-Promote collaboration and communication within the team
+Milestones: [List the major milestones and their timelines]
 
-Scope: 
+Constraints: [Identify any constraints or limitations that may impact the initiative]
 
-This initiative will focus on establishing a regular retrospective practice for the development team.
+Assumptions: [List any assumptions made about the initiative]
 
-Outcomes:
+Risks: [List the potential risks and mitigation strategies]
 
-Improved team processes and practices
+Dependencies: [List any dependencies that may impact the initiative]
 
-Increased collaboration and communication within the team
-
-Enhanced ability to adapt to changing requirements and technologies
-
-Deliverables:
-
-Retrospective meeting schedule
-
-Retrospective meeting agenda template
-
-Action item tracking tool
-
-Milestones:
-
-Schedule and hold first retrospective meeting (Month 1)
-
-Identify and prioritize areas for improvement (Month 2)
-
-Develop and implement action items (Months 3-6)
-
-Constraints: 
-
-The retrospective practice will need to be scheduled around existing development cycles and project deadlines.
-
-Assumptions: 
-
-The team is willing to participate in the retrospective practice and is open to feedback and suggestions for improvement.
-
-Risks:
-
-Lack of participation or engagement from team members
-
-Failure to implement action items effectively
-
-Unforeseen external factors impacting the retrospective practice (e.g. unexpected project delays)
-
-Mitigation strategies:
-
-Regular communication and reminders about the importance of the retrospective practice
-
-Clearly defined action items with assigned owners and deadlines
-
-Regular evaluation and adaptation of the retrospective practice to ensure effectiveness
-
-Dependencies: 
-
-None
-
-Team:
-
-Development team members will participate in the retrospective meetings and contribute to identifying areas for improvement and developing action items.
-
-Project manager will oversee the retrospective practice and ensure it is aligned with project goals and timelines.
-
+Team: [Identify the team members and their roles in the initiative]
 
 # List epics related to this theme
 1. [Epic 1](documentation/templates/theme/initiatives/epics/epic_template.md)

@@ -7,7 +7,7 @@ Theme: Create engaging learning environment for students
 
 ## Initiative(s)
 
-* [Develop initial project documentation to establish a clear project scope.](initiatives/documentation_initiative.md)
+* [Project documentation for future product development path.](initiatives/documentation_initiative.md)
 * [CI/CD DevOps task](initiatives/initiative_devops.md)
 * [Legal Compliance for the web page template](initiatives/initiative_legal.md)
 

@@ -1,22 +1,12 @@
-As a software developer, I want to have access to regular training opportunities so that I can stay up-to-date with the latest industry trends and improve my skills.
+"As a [user role], I want to [do something] so that [achieve a specific goal]."
+
+By following this template, you can create user stories that are structured and easy to understand. To make the user story even more effective, you can add acceptance criteria that specify the requirements that must be met to consider the user story complete. Here's an example of a user story with acceptance criteria:
+
+"As a customer, I want to view my order history so that I can track my past purchases."
 
 Acceptance Criteria:
 
--The training opportunities are offered on a regular basis (at least once a quarter).
-
--The training materials cover relevant and up-to-date industry trends and technologies.
-
--The training sessions are led by experienced instructors with expertise in the subject matter.
-
--The training materials and sessions are easily accessible and can be accessed remotely if necessary.
-
--Completion of the training is tracked and recorded in a central system.
-
--Feedback on the quality of the training materials and sessions is collected and used to continuously improve the program.
-
--The training opportunities are communicated clearly and consistently to all developers within the organization.
-
--The program is regularly evaluated and adapted to ensure effectiveness and relevance.
+The order history page displays a list of all past orders, including the date, order number, and total cost. Each order in the list is clickable and leads to a detailed view of the order. The detailed view of the order includes the list of items purchased, the quantities, the prices, and any discounts applied. The order history page can be accessed from the customer account dashboard. The order history page is only accessible to authenticated customers.
 
 
 # List Stories related to this theme

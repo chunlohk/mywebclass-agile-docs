@@ -1,13 +1,14 @@
-# Theme 1.0: Project Setup
+# Theme 1.0: Project Setup for MyWebClass
 ## Overview
-Our objective is to establish a highly visible web presence using lean and agile principles to quickly and effectively
-develop a strong foundation for our web project. By completing the initiatives outlined in this theme, we can establish a
-solid foundation that ensures our web page meets our business requirements throughout the life of the project, setting
-us up for long-term success.
+
+MyWebClass.org is a website that aims to support teachers and engage students in their learning journey. The website provides resources, tools, and ideas to teachers to create an interactive and engaging learning environment for their students. MyWebClass.org uses an agile approach to project setup to ensure that the website is responsive to the needs of teachers and students. The theme of MyWebClass.org is to enhance the quality of education by supporting and empowering teachers to create a more engaging and effective learning experience for their students.
+
+Theme: Create engaging learning environment for students
+
 ## Initiative(s)
 
 * [Develop initial project documentation to establish a clear project scope.](initiatives/documentation_initiative.md)
-* [Set up the CI/CD DevOps processes to ensure efficient and collaborative development practices.](initiatives/initiative_devops.md)
+* [CI/CD DevOps task](initiatives/initiative_devops.md)
 * [Create an initial web page template that includes](initiatives/initiative_webpage_template.md)
 
 * Monitoring to continuously improve the quality of our project

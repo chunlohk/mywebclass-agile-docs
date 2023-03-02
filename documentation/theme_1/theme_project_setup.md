@@ -9,7 +9,7 @@ Theme: Create engaging learning environment for students
 
 * [Develop initial project documentation to establish a clear project scope.](initiatives/documentation_initiative.md)
 * [CI/CD DevOps task](initiatives/initiative_devops.md)
-* [Create an initial web page template that includes](initiatives/initiative_webpage_template.md)
+* [Legal Compliance for the web page template](initiatives/initiative_legal.md)
 
 * Monitoring to continuously improve the quality of our project
   * Website analytics to collect data that can be used to continuously improve MyWebClass for our community members

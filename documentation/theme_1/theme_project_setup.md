@@ -68,14 +68,3 @@ Theme: Create engaging learning environment for students
 * Ensure that the website's template is legally compliant.
 
 * Check that the website's content does not violate any laws or regulations.
-
-##  Development Branch for Peer Review
-
-Brandon, after you review where I address your peer review commits. Please add them into development branch. Let me know when you are done so I can merge the development branch with final product to my main branch. Thank you!
-=======
-How will this be tested?
-
-## Development Branch for Peer Review
-
-Brandon, after you review where I address your peer review commits. Please add them into development branch. Let me know when you are done so I can merge the development branch with final product to my main branch. Thank you! 
-

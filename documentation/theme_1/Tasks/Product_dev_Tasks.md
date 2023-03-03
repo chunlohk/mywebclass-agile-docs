@@ -1,19 +1,3 @@
-## Task Title: Create Project Charter
-
-User Story: As a project manager, I want to create a project charter to define the purpose and objectives of MyWebClass.org.
-
-Description: Develop a document that outlines the purpose and objectives of the project, including project scope, constraints, assumptions, risks, and stakeholders. This task will involve collaborating with stakeholders to gather input and feedback to ensure the project charter accurately represents the project. Acceptance criteria include a completed and approved project charter document that accurately represents the project.
-
-Effort Estimate: 8 hours
-
-Assigned To: Project Manager
-
-Priority: High
-
-Status: Not started
-
-Notes:
-
 ## Task Title: Develop Project Management Plan
 
 User Story: As a project manager, I want to create a project management plan to identify the resources needed for the project.

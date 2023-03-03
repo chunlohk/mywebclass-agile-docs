@@ -12,6 +12,7 @@ Theme: Create engaging learning environment for students
 * [Legal Compliance for the web page template](initiatives/initiative_legal.md)
 
 ## Test plan
+
 1. W3C Validation:
 
 * Verify that the website's HTML and CSS codes are valid.
@@ -71,3 +72,10 @@ Theme: Create engaging learning environment for students
 ##  Development Branch for Peer Review
 
 Brandon, after you review where I address your peer review commits. Please add them into development branch. Let me know when you are done so I can merge the development branch with final product to my main branch. Thank you!
+=======
+How will this be tested?
+
+## Development Branch for Peer Review
+
+Brandon, after you review where I address your peer review commits. Please add them into development branch. Let me know when you are done so I can merge the development branch with final product to my main branch. Thank you! 
+

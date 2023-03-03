@@ -21,6 +21,7 @@ Acceptance Criteria:
 * The scope statement clearly outlines the boundaries of the project and what is included and excluded from the scope. 
 * The work breakdown structure provides a detailed breakdown of the project tasks and subtasks. 
 * The scope statement and work breakdown structure are approved by all relevant stakeholders.
+* The scope statement breaks down the cost of all resources
 
 "As a project manager, I want to create a risk management plan to identify potential risks and mitigation strategies":
 

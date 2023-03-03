@@ -11,9 +11,9 @@ Theme: Create engaging learning environment for students
 * [CI/CD DevOps task](initiatives/initiative_devops.md)
 * [Legal Compliance for the web page template](initiatives/initiative_legal.md)
 
-* Monitoring to continuously improve the quality of our project
-  * Website analytics to collect data that can be used to continuously improve MyWebClass for our community members
-  * Project metrics to continuously improve the management of the project
-
 ## Test plan
 How will this be tested?
+
+## Development Branch for Peer Review
+
+Brandon, after you review where I address your peer review commits. Please add them into development branch. Let me know when you are done so I can merge the development branch with final product to my main branch. Thank you! 

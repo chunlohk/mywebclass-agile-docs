@@ -31,6 +31,7 @@ Risks:
 1. Changes made to the website may not pass W3C validation or Lighthouse audits, resulting in decreased website performance and accessibility. 
 2. Failure to comply with GDPR regulations may result in legal action against the website. 
 3. Improper configuration of Google Analytics may result in inaccurate data collection and analysis.
+4. Failure to comply with regulations can result in employee termination or project cancellation
 
 Mitigation Strategies:
 

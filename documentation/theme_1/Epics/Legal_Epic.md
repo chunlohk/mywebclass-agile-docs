@@ -131,4 +131,4 @@ ii. Verify that the website can handle the load without crashing or experiencing
 
 Conclusion:
 
-Ensuring legal compliance and providing a secure and trustworthy
+Ensuring legal compliance and providing a secure and trustworthy platform with W3C validation, lighthouse and GDPR Scanner tests.
